@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33328.57
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pracenje trudnoce", "Pracenje trudnoce\Pracenje trudnoce.csproj", "{854726C7-5D4E-4C64-ACED-282BDE471567}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{854726C7-5D4E-4C64-ACED-282BDE471567}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{854726C7-5D4E-4C64-ACED-282BDE471567}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{854726C7-5D4E-4C64-ACED-282BDE471567}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{854726C7-5D4E-4C64-ACED-282BDE471567}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1EFE41CE-6B3D-4DEF-AD72-88E2E01B667E}
+	EndGlobalSection
+EndGlobal

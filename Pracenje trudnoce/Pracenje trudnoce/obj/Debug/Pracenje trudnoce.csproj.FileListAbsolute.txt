@@ -81,3 +81,86 @@ C:\Users\Lucija\Desktop\Pracenje trudnoce\Pracenje trudnoce\bin\Debug\System.Tex
 C:\Users\Lucija\Desktop\Pracenje trudnoce\Pracenje trudnoce\bin\Debug\System.Text.Json.xml
 C:\Users\Lucija\Desktop\Pracenje trudnoce\Pracenje trudnoce\bin\Debug\System.Threading.Channels.xml
 C:\Users\Lucija\Desktop\Pracenje trudnoce\Pracenje trudnoce\bin\Debug\System.ValueTuple.xml
+C:\Users\Lucija\Source\Repos\AILab-FOI\ADB2023-tim-2\Pracenje trudnoce\Pracenje trudnoce\bin\Debug\Pracenje trudnoce.exe.config
+C:\Users\Lucija\Source\Repos\AILab-FOI\ADB2023-tim-2\Pracenje trudnoce\Pracenje trudnoce\bin\Debug\Pracenje trudnoce.exe
+C:\Users\Lucija\Source\Repos\AILab-FOI\ADB2023-tim-2\Pracenje trudnoce\Pracenje trudnoce\bin\Debug\Pracenje trudnoce.pdb
+C:\Users\Lucija\Source\Repos\AILab-FOI\ADB2023-tim-2\Pracenje trudnoce\Pracenje trudnoce\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Lucija\Source\Repos\AILab-FOI\ADB2023-tim-2\Pracenje trudnoce\Pracenje trudnoce\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Lucija\Source\Repos\AILab-FOI\ADB2023-tim-2\Pracenje trudnoce\Pracenje trudnoce\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Lucija\Source\Repos\AILab-FOI\ADB2023-tim-2\Pracenje trudnoce\Pracenje trudnoce\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Lucija\Source\Repos\AILab-FOI\ADB2023-tim-2\Pracenje trudnoce\Pracenje trudnoce\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Lucija\Source\Repos\AILab-FOI\ADB2023-tim-2\Pracenje trudnoce\Pracenje trudnoce\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Lucija\Source\Repos\AILab-FOI\ADB2023-tim-2\Pracenje trudnoce\Pracenje trudnoce\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Lucija\Source\Repos\AILab-FOI\ADB2023-tim-2\Pracenje trudnoce\Pracenje trudnoce\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Lucija\Source\Repos\AILab-FOI\ADB2023-tim-2\Pracenje trudnoce\Pracenje trudnoce\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Lucija\Source\Repos\AILab-FOI\ADB2023-tim-2\Pracenje trudnoce\Pracenje trudnoce\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Lucija\Source\Repos\AILab-FOI\ADB2023-tim-2\Pracenje trudnoce\Pracenje trudnoce\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Lucija\Source\Repos\AILab-FOI\ADB2023-tim-2\Pracenje trudnoce\Pracenje trudnoce\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Lucija\Source\Repos\AILab-FOI\ADB2023-tim-2\Pracenje trudnoce\Pracenje trudnoce\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Lucija\Source\Repos\AILab-FOI\ADB2023-tim-2\Pracenje trudnoce\Pracenje trudnoce\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Lucija\Source\Repos\AILab-FOI\ADB2023-tim-2\Pracenje trudnoce\Pracenje trudnoce\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Lucija\Source\Repos\AILab-FOI\ADB2023-tim-2\Pracenje trudnoce\Pracenje trudnoce\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Lucija\Source\Repos\AILab-FOI\ADB2023-tim-2\Pracenje trudnoce\Pracenje trudnoce\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Lucija\Source\Repos\AILab-FOI\ADB2023-tim-2\Pracenje trudnoce\Pracenje trudnoce\bin\Debug\Npgsql.ConfigureConnection.dll
+C:\Users\Lucija\Source\Repos\AILab-FOI\ADB2023-tim-2\Pracenje trudnoce\Pracenje trudnoce\bin\Debug\Npgsql.dll
+C:\Users\Lucija\Source\Repos\AILab-FOI\ADB2023-tim-2\Pracenje trudnoce\Pracenje trudnoce\bin\Debug\System.Buffers.dll
+C:\Users\Lucija\Source\Repos\AILab-FOI\ADB2023-tim-2\Pracenje trudnoce\Pracenje trudnoce\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Lucija\Source\Repos\AILab-FOI\ADB2023-tim-2\Pracenje trudnoce\Pracenje trudnoce\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Lucija\Source\Repos\AILab-FOI\ADB2023-tim-2\Pracenje trudnoce\Pracenje trudnoce\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lucija\Source\Repos\AILab-FOI\ADB2023-tim-2\Pracenje trudnoce\Pracenje trudnoce\bin\Debug\System.Memory.dll
+C:\Users\Lucija\Source\Repos\AILab-FOI\ADB2023-tim-2\Pracenje trudnoce\Pracenje trudnoce\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lucija\Source\Repos\AILab-FOI\ADB2023-tim-2\Pracenje trudnoce\Pracenje trudnoce\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lucija\Source\Repos\AILab-FOI\ADB2023-tim-2\Pracenje trudnoce\Pracenje trudnoce\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Lucija\Source\Repos\AILab-FOI\ADB2023-tim-2\Pracenje trudnoce\Pracenje trudnoce\bin\Debug\System.Text.Json.dll
+C:\Users\Lucija\Source\Repos\AILab-FOI\ADB2023-tim-2\Pracenje trudnoce\Pracenje trudnoce\bin\Debug\System.Threading.Channels.dll
+C:\Users\Lucija\Source\Repos\AILab-FOI\ADB2023-tim-2\Pracenje trudnoce\Pracenje trudnoce\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Lucija\Source\Repos\AILab-FOI\ADB2023-tim-2\Pracenje trudnoce\Pracenje trudnoce\bin\Debug\System.ValueTuple.dll
+C:\Users\Lucija\Source\Repos\AILab-FOI\ADB2023-tim-2\Pracenje trudnoce\Pracenje trudnoce\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Lucija\Source\Repos\AILab-FOI\ADB2023-tim-2\Pracenje trudnoce\Pracenje trudnoce\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Lucija\Source\Repos\AILab-FOI\ADB2023-tim-2\Pracenje trudnoce\Pracenje trudnoce\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\Lucija\Source\Repos\AILab-FOI\ADB2023-tim-2\Pracenje trudnoce\Pracenje trudnoce\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Lucija\Source\Repos\AILab-FOI\ADB2023-tim-2\Pracenje trudnoce\Pracenje trudnoce\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\Lucija\Source\Repos\AILab-FOI\ADB2023-tim-2\Pracenje trudnoce\Pracenje trudnoce\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Lucija\Source\Repos\AILab-FOI\ADB2023-tim-2\Pracenje trudnoce\Pracenje trudnoce\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Lucija\Source\Repos\AILab-FOI\ADB2023-tim-2\Pracenje trudnoce\Pracenje trudnoce\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Lucija\Source\Repos\AILab-FOI\ADB2023-tim-2\Pracenje trudnoce\Pracenje trudnoce\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Lucija\Source\Repos\AILab-FOI\ADB2023-tim-2\Pracenje trudnoce\Pracenje trudnoce\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Lucija\Source\Repos\AILab-FOI\ADB2023-tim-2\Pracenje trudnoce\Pracenje trudnoce\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Lucija\Source\Repos\AILab-FOI\ADB2023-tim-2\Pracenje trudnoce\Pracenje trudnoce\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Lucija\Source\Repos\AILab-FOI\ADB2023-tim-2\Pracenje trudnoce\Pracenje trudnoce\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Lucija\Source\Repos\AILab-FOI\ADB2023-tim-2\Pracenje trudnoce\Pracenje trudnoce\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Lucija\Source\Repos\AILab-FOI\ADB2023-tim-2\Pracenje trudnoce\Pracenje trudnoce\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Lucija\Source\Repos\AILab-FOI\ADB2023-tim-2\Pracenje trudnoce\Pracenje trudnoce\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Lucija\Source\Repos\AILab-FOI\ADB2023-tim-2\Pracenje trudnoce\Pracenje trudnoce\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Lucija\Source\Repos\AILab-FOI\ADB2023-tim-2\Pracenje trudnoce\Pracenje trudnoce\bin\Debug\Npgsql.xml
+C:\Users\Lucija\Source\Repos\AILab-FOI\ADB2023-tim-2\Pracenje trudnoce\Pracenje trudnoce\bin\Debug\System.Buffers.xml
+C:\Users\Lucija\Source\Repos\AILab-FOI\ADB2023-tim-2\Pracenje trudnoce\Pracenje trudnoce\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Lucija\Source\Repos\AILab-FOI\ADB2023-tim-2\Pracenje trudnoce\Pracenje trudnoce\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Lucija\Source\Repos\AILab-FOI\ADB2023-tim-2\Pracenje trudnoce\Pracenje trudnoce\bin\Debug\System.Memory.xml
+C:\Users\Lucija\Source\Repos\AILab-FOI\ADB2023-tim-2\Pracenje trudnoce\Pracenje trudnoce\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Lucija\Source\Repos\AILab-FOI\ADB2023-tim-2\Pracenje trudnoce\Pracenje trudnoce\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lucija\Source\Repos\AILab-FOI\ADB2023-tim-2\Pracenje trudnoce\Pracenje trudnoce\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Lucija\Source\Repos\AILab-FOI\ADB2023-tim-2\Pracenje trudnoce\Pracenje trudnoce\bin\Debug\System.Text.Json.xml
+C:\Users\Lucija\Source\Repos\AILab-FOI\ADB2023-tim-2\Pracenje trudnoce\Pracenje trudnoce\bin\Debug\System.Threading.Channels.xml
+C:\Users\Lucija\Source\Repos\AILab-FOI\ADB2023-tim-2\Pracenje trudnoce\Pracenje trudnoce\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Lucija\Source\Repos\AILab-FOI\ADB2023-tim-2\Pracenje trudnoce\Pracenje trudnoce\bin\Debug\System.ValueTuple.xml
+C:\Users\Lucija\Source\Repos\AILab-FOI\ADB2023-tim-2\Pracenje trudnoce\Pracenje trudnoce\obj\Debug\Pracenje trudnoce.csproj.AssemblyReference.cache
+C:\Users\Lucija\Source\Repos\AILab-FOI\ADB2023-tim-2\Pracenje trudnoce\Pracenje trudnoce\obj\Debug\Pracenje_trudnoce.DnevnikDogadaja.resources
+C:\Users\Lucija\Source\Repos\AILab-FOI\ADB2023-tim-2\Pracenje trudnoce\Pracenje trudnoce\obj\Debug\Pracenje_trudnoce.PlodDoktor.resources
+C:\Users\Lucija\Source\Repos\AILab-FOI\ADB2023-tim-2\Pracenje trudnoce\Pracenje trudnoce\obj\Debug\Pracenje_trudnoce.PlodTrudnica.resources
+C:\Users\Lucija\Source\Repos\AILab-FOI\ADB2023-tim-2\Pracenje trudnoce\Pracenje trudnoce\obj\Debug\Pracenje_trudnoce.Pocetna.resources
+C:\Users\Lucija\Source\Repos\AILab-FOI\ADB2023-tim-2\Pracenje trudnoce\Pracenje trudnoce\obj\Debug\Pracenje_trudnoce.PreglediUnos.resources
+C:\Users\Lucija\Source\Repos\AILab-FOI\ADB2023-tim-2\Pracenje trudnoce\Pracenje trudnoce\obj\Debug\Pracenje_trudnoce.PreglediIRezultati.resources
+C:\Users\Lucija\Source\Repos\AILab-FOI\ADB2023-tim-2\Pracenje trudnoce\Pracenje trudnoce\obj\Debug\Pracenje_trudnoce.Prijava.resources
+C:\Users\Lucija\Source\Repos\AILab-FOI\ADB2023-tim-2\Pracenje trudnoce\Pracenje trudnoce\obj\Debug\Pracenje_trudnoce.ProfilTrudnica.resources
+C:\Users\Lucija\Source\Repos\AILab-FOI\ADB2023-tim-2\Pracenje trudnoce\Pracenje trudnoce\obj\Debug\Pracenje_trudnoce.Properties.Resources.resources
+C:\Users\Lucija\Source\Repos\AILab-FOI\ADB2023-tim-2\Pracenje trudnoce\Pracenje trudnoce\obj\Debug\Pracenje_trudnoce.Registracija.resources
+C:\Users\Lucija\Source\Repos\AILab-FOI\ADB2023-tim-2\Pracenje trudnoce\Pracenje trudnoce\obj\Debug\Pracenje_trudnoce.RezultatiPregledaUnos.resources
+C:\Users\Lucija\Source\Repos\AILab-FOI\ADB2023-tim-2\Pracenje trudnoce\Pracenje trudnoce\obj\Debug\Pracenje_trudnoce.Simptomi.resources
+C:\Users\Lucija\Source\Repos\AILab-FOI\ADB2023-tim-2\Pracenje trudnoce\Pracenje trudnoce\obj\Debug\Pracenje_trudnoce.TrudoviTrudnica.resources
+C:\Users\Lucija\Source\Repos\AILab-FOI\ADB2023-tim-2\Pracenje trudnoce\Pracenje trudnoce\obj\Debug\Pracenje_trudnoce.UrediProfilTrudnica.resources
+C:\Users\Lucija\Source\Repos\AILab-FOI\ADB2023-tim-2\Pracenje trudnoce\Pracenje trudnoce\obj\Debug\Pracenje trudnoce.csproj.GenerateResource.cache
+C:\Users\Lucija\Source\Repos\AILab-FOI\ADB2023-tim-2\Pracenje trudnoce\Pracenje trudnoce\obj\Debug\Pracenje trudnoce.csproj.CoreCompileInputs.cache
+C:\Users\Lucija\Source\Repos\AILab-FOI\ADB2023-tim-2\Pracenje trudnoce\Pracenje trudnoce\obj\Debug\Pracenje trudnoce.csproj.CopyComplete
+C:\Users\Lucija\Source\Repos\AILab-FOI\ADB2023-tim-2\Pracenje trudnoce\Pracenje trudnoce\obj\Debug\Pracenje trudnoce.exe
+C:\Users\Lucija\Source\Repos\AILab-FOI\ADB2023-tim-2\Pracenje trudnoce\Pracenje trudnoce\obj\Debug\Pracenje trudnoce.pdb
